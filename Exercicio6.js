@@ -1,4 +1,4 @@
-let  nivel = prompt("Escolha o nivel:");
+let  nivel = Number(prompt("Escolha o nivel:"));
 switch (nivel){
   case 1:
     console.log("Iniciante");
