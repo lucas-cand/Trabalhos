@@ -1,12 +1,12 @@
 let numero = prompt("Digite um numero:");
 console.log("\nSeu numero é:");
 if (numero > 0 ){
-    console.log("Positivo")
+    console.log("Positivo");
 }
 if (numero == 0){
-    console.log("Zero")
+    console.log("Zero");
 }
 if (numero < 0){
-    console.log("Negativo")
+    console.log("Negativo");
 }
 
