@@ -1,9 +1,9 @@
 let nota = prompt ("Escreva a nota:")
 if (nota >= 7){
-  console.log("Aprovado")
+  console.log("Aprovado");
 } 
 if (nota <=5 ){
-  console.log("Recuperação")
+  console.log("Recuperação");
 }  else {
-  console.log("Reprovado")
+  console.log("Reprovado");
 }
